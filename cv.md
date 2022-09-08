@@ -4,7 +4,7 @@
 ## Contacts
 
 - E-mail: mukushev.alisher94@gmail.com
-- Phone: 87076851075
+- Phone: +77076851075
 - GitHub: ELM_8
 
 ## About me
