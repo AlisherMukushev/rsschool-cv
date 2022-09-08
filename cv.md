@@ -8,7 +8,7 @@
 - GitHub: ELM_8
 
 ## About me
-> My goal is to become a skilled developer. I think I have all necessary abilities for the quick start, as I know English at the Upper-intermediate level, 
+> My goal is to become a skilled developer. I think I have all necessary abilities for the quick start, as I know English at the Upper-Intermediate level, 
 and also have developed my logical reasoning playing chess for more than 10 years. I'm passionate about programming as it is very interesting and creative profession.
 I always feel inspired after solving problems at Codewars.
 
